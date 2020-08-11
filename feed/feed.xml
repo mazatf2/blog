@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Website</title>
+	<subtitle></subtitle>
+	
+	<link href="https://example.com/feed/feed.xml" rel="self"/>
+	<link href="https://example.com/"/>
+	<updated>2020-08-10T08:17:56+03:00</updated>
+	<id>https://example.com/</id>
+	<author>
+		<name>mazatf2</name>
+		<email></email>
+	</author>
+	
+	<entry>
+		<title>Search and link demos and logs - userscripts</title>
+		<link href="https://example.com/posts/tf2-comp-userscripts/"/>
+		<updated>2020-08-10T08:17:56+03:00</updated>
+		<id>https://example.com/posts/tf2-comp-userscripts/</id>
+		<content type="html">&lt;h1&gt;tf2-comp-userscripts&lt;/h1&gt;
+&lt;h3&gt;logstf-demo-search.user.js&lt;/h3&gt;
+&lt;p&gt;Logs.tf &amp;amp; Demos.tf match entries linker.&lt;/p&gt;
+&lt;p&gt;Adds links to Demos.tf entries from Logs.tf. Links are added to Logs.tf match pages.
+This script uses Logs.tf and Demos.tf apis.&lt;/p&gt;
+&lt;h4&gt;Screenshots&lt;/h4&gt;
+&lt;h1&gt;&lt;img src=&quot;https://i.imgur.com/HXHKRnv.png&quot; alt=&quot;Imgur Image&quot;&gt;&lt;/h1&gt;
+&lt;h3&gt;demostf-log-search.user.js&lt;/h3&gt;
+&lt;p&gt;Demos.tf &amp;amp; Logs.tf match entries linker.&lt;/p&gt;
+&lt;p&gt;Adds links to Logs.tf entries from Demos.tf. Links are added to Demos.tf match pages.
+This script uses Logs.tf and Demos.tf apis.&lt;/p&gt;
+&lt;h4&gt;Screenshots&lt;/h4&gt;
+&lt;h1&gt;&lt;img src=&quot;https://i.imgur.com/OsUTgjA.png&quot; alt=&quot;Imgur Image&quot;&gt;&lt;/h1&gt;
+&lt;h3&gt;etf2l-match-page-log-and-demo-search.user.js&lt;/h3&gt;
+&lt;p&gt;Search for demos and logs. This script uses Logs.tf and Demos.tf apis.&lt;/p&gt;
+&lt;h4&gt;Screenshots&lt;/h4&gt;
+&lt;h1&gt;&lt;img src=&quot;https://i.imgur.com/1rWavL4.png&quot; alt=&quot;Imgur Image&quot;&gt;&lt;/h1&gt;
+&lt;h4&gt;Userscripts are tested with&lt;/h4&gt;
+&lt;pre&gt;&lt;code&gt;Firefox 78
+Greasemonkey 4.9
+
+and
+
+Chrome 84
+Tampermonkey 4.10
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2&gt;License&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://choosealicense.com/licenses/mit/&quot;&gt;MIT&lt;/a&gt;&lt;/p&gt;
+</content>
+	</entry>
+</feed>

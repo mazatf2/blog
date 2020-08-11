@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://example.com/about/</loc>
+    <lastmod>2020-08-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/</loc>
+    <lastmod>2020-08-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/</loc>
+    <lastmod>2020-08-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/page-list/</loc>
+    <lastmod>2020-08-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/</loc>
+    <lastmod>2020-08-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/dev-post/</loc>
+    <lastmod>2020-08-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/examples/userscripts/</loc>
+    <lastmod>2020-08-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/examples/repos/</loc>
+    <lastmod>2020-08-05</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/tf2-comp-userscripts/</loc>
+    <lastmod>2020-08-10</lastmod>
+  </url>
+</urlset>

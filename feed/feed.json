@@ -1,0 +1,19 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "Website",
+  "home_page_url": "https://example.com/",
+  "feed_url": "https://example.com/feed/feed.json",
+  "description": "",
+  "author": {
+    "name": "mazatf2",
+    "url": ""
+  },
+  "items": [{
+      "id": "https://example.com/posts/tf2-comp-userscripts/",
+      "url": "https://example.com/posts/tf2-comp-userscripts/",
+      "title": "Search and link demos and logs - userscripts",
+      "content_html": "<h1>tf2-comp-userscripts</h1>\n<h3>logstf-demo-search.user.js</h3>\n<p>Logs.tf &amp; Demos.tf match entries linker.</p>\n<p>Adds links to Demos.tf entries from Logs.tf. Links are added to Logs.tf match pages.\nThis script uses Logs.tf and Demos.tf apis.</p>\n<h4>Screenshots</h4>\n<h1><img src=\"https://i.imgur.com/HXHKRnv.png\" alt=\"Imgur Image\"></h1>\n<h3>demostf-log-search.user.js</h3>\n<p>Demos.tf &amp; Logs.tf match entries linker.</p>\n<p>Adds links to Logs.tf entries from Demos.tf. Links are added to Demos.tf match pages.\nThis script uses Logs.tf and Demos.tf apis.</p>\n<h4>Screenshots</h4>\n<h1><img src=\"https://i.imgur.com/OsUTgjA.png\" alt=\"Imgur Image\"></h1>\n<h3>etf2l-match-page-log-and-demo-search.user.js</h3>\n<p>Search for demos and logs. This script uses Logs.tf and Demos.tf apis.</p>\n<h4>Screenshots</h4>\n<h1><img src=\"https://i.imgur.com/1rWavL4.png\" alt=\"Imgur Image\"></h1>\n<h4>Userscripts are tested with</h4>\n<pre><code>Firefox 78\nGreasemonkey 4.9\n\nand\n\nChrome 84\nTampermonkey 4.10\n</code></pre>\n<h2>License</h2>\n<p><a href=\"https://choosealicense.com/licenses/mit/\">MIT</a></p>\n",
+      "date_published": "2020-08-10T08:17:56+03:00"
+    }
+  ]
+}
