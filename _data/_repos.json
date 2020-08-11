@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Search and link demos and logs - userscripts",
+    "description": "Purpose: Search logs or demos uploaded to Logs.tf or Demos.tf. For TF2 historians and frag movie makers.",
+    "permalink_fragment": "tf2-comp-userscripts",
+    "repo_gh_url": "mazatf2/tf2-comp-userscripts",
+    "tags": [
+      "posts",
+      "userscripts",
+      "tf2",
+      "competitive",
+      "logs.tf",
+      "demos.tf",
+      "etf2l.org"
+    ]
+  }
+]
+

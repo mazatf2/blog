@@ -2,7 +2,7 @@
 title: Find and link matches
 description: Userscripts for Competitive Team Fortress 2
 tags:
-  - etf2l.org
+  - dev-post
 layout: layouts/post.njk
 ---
 ========
