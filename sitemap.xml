@@ -2,47 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://example.com/blog/about/</loc>
     <lastmod>2020-08-02</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/</loc>
+    <loc>https://example.com/blog/posts/</loc>
     <lastmod>2020-08-02</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://example.com/blog/</loc>
     <lastmod>2020-08-02</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/page-list/</loc>
+    <loc>https://example.com/blog/page-list/</loc>
     <lastmod>2020-08-02</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://example.com/blog/tags/</loc>
     <lastmod>2020-08-02</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/dev-post/</loc>
+    <loc>https://example.com/blog/tags/dev-post/</loc>
     <lastmod>2020-08-02</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/examples/userscripts/</loc>
+    <loc>https://example.com/blog/posts/examples/userscripts/</loc>
     <lastmod>2020-08-02</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/examples/repos/</loc>
+    <loc>https://example.com/blog/posts/examples/repos/</loc>
     <lastmod>2020-08-05</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/tf2-comp-userscripts/</loc>
+    <loc>https://example.com/blog/posts/tf2-comp-userscripts/</loc>
     <lastmod>2020-08-10</lastmod>
   </url>
 </urlset>

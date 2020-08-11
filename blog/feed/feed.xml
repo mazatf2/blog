@@ -3,7 +3,7 @@
 	<title>Website</title>
 	<subtitle></subtitle>
 	
-	<link href="https://example.com/feed/feed.xml" rel="self"/>
+	<link href="https://example.com/blog/feed/feed.xml" rel="self"/>
 	<link href="https://example.com/"/>
 	<updated>2020-08-10T08:17:56+03:00</updated>
 	<id>https://example.com/</id>
@@ -14,9 +14,9 @@
 	
 	<entry>
 		<title>Search and link demos and logs - userscripts</title>
-		<link href="https://example.com/posts/tf2-comp-userscripts/"/>
+		<link href="https://example.com/blog/posts/tf2-comp-userscripts/"/>
 		<updated>2020-08-10T08:17:56+03:00</updated>
-		<id>https://example.com/posts/tf2-comp-userscripts/</id>
+		<id>https://example.com/blog/posts/tf2-comp-userscripts/</id>
 		<content type="html">&lt;h1&gt;tf2-comp-userscripts&lt;/h1&gt;
 &lt;h3&gt;logstf-demo-search.user.js&lt;/h3&gt;
 &lt;p&gt;Logs.tf &amp;amp; Demos.tf match entries linker.&lt;/p&gt;
