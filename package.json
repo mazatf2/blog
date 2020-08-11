@@ -7,7 +7,8 @@
     "watch": "eleventy --watch",
     "serve": "eleventy --serve",
     "start": "eleventy --serve",
-    "debug": "DEBUG=* eleventy"
+    "debug": "DEBUG=* eleventy",
+    "deploy": "gh-pages -d _site"
   },
   "repository": {
     "type": "git",
@@ -29,6 +30,7 @@
     "@11ty/eleventy-plugin-syntaxhighlight": "^3.0.1",
     "luxon": "^1.21.3",
     "markdown-it": "^8.4.2",
-    "markdown-it-anchor": "^5.2.5"
+    "markdown-it-anchor": "^5.2.5",
+    "gh-pages": "^3.1.0"
   }
 }
